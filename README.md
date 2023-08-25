@@ -1,5 +1,5 @@
 # password-generator
-## a very noob CLI password generator made with ruby
+# # a very noob CLI password generator made with ruby
 
 **This is a CLI password generator**. 
 It will prompt the user the length of the password they want (how many characters).
